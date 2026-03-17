@@ -1,0 +1,6 @@
+[submodule "issac"]
+	path = issac
+	url = https://github.com/Hatbitillucom/issac.git
+[submodule "Holonyak"]
+	path = Holonyak
+	url = https://github.com/Hatbitillucom/Holonyak.git
